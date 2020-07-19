@@ -9,6 +9,6 @@
 
 ### Contacts
 
-<span><img src="https://github.com/quis0/quis0/blob/master/images/email-icon.png" alt="" width="14x" height="16px"></span> e-mail: zotkevich@bk.ru
+e-mail: zotkevich@bk.ru
  
-<span><img src="https://github.com/quis0/quis0/blob/master/images/telegram-logo.png" alt="" width="12px" height="12px"></span> telegram: @grigoryzotkevich
+telegram: @grigoryzotkevich
