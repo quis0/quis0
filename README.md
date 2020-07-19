@@ -9,6 +9,5 @@
 
 ## Contacts
 
-e-mail: zotkevich@bk.ru
-
-telegram: @grigoryzotkevich
+* e-mail: zotkevich@bk.ru
+* telegram: @grigoryzotkevich
