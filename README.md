@@ -3,7 +3,7 @@
 | HTML + CSS      | HTML + CSS + JavaScript | HTML + CSS + JavaScript + Framework  |
 | :-------------: |:------------------:| :-----:|
 | [Learning how to learn (static landing)](https://github.com/quis0/my-portfolio/tree/master/static-landing)     |[Mesto (interactive service with adaptive design)](https://github.com/quis0/my-portfolio/tree/master/mesto-service) | [Chipmunk movies (SPA)](https://github.com/quis0/movies-app)  |
-| [Travel in Russia (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/adaptive-landing)     |[Inspiration (small pet-project for inspiration)](https://github.com/quis0/inspiration)  |    |
+| [Travel in Russia (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/adaptive-landing)     |[Inspiration (small project for inspiration)](https://github.com/quis0/inspiration)  |    |
 | [Demo site (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/templates/demo-site)  |          |     |
 | [Test task (adaptive landing)](https://github.com/quis0/test-task)
 
