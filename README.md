@@ -6,3 +6,9 @@
 | [Travel in Russia (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/adaptive-landing)     |[Inspiration (small pet-project for inspiration)](https://github.com/quis0/inspiration)  |    |
 | [Demo site (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/templates/demo-site)  |          |     |
 | [Test task (adaptive landing)](https://github.com/quis0/test-task)
+
+### Contacts
+
+ e-mail: zotkevich@bk.ru
+ 
+ telegram: @grigoryzotkevich
