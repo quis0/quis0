@@ -12,4 +12,4 @@
 <span><img src="https://github.com/quis0/quis0/blob/master/images/email-icon.png" alt="" width="12px" height="12px"></span> e-mail: zotkevich@bk.ru
 
  
- telegram: @grigoryzotkevich
+<span><img src="https://github.com/quis0/quis0/blob/master/images/telegram-logo.png" alt="" width="12px" height="12px"></span> telegram: @grigoryzotkevich
