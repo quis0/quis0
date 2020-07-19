@@ -7,8 +7,8 @@
 | [Demo site (adaptive landing)](https://github.com/quis0/my-portfolio/tree/master/templates/demo-site)  |          |     |
 | [Test task (adaptive landing)](https://github.com/quis0/test-task)
 
-### Contacts
+## Contacts
 
 e-mail: zotkevich@bk.ru
- 
+
 telegram: @grigoryzotkevich
