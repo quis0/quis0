@@ -1,4 +1,4 @@
-## My projects: 
+## My projects
 
 | HTML + CSS      | HTML + CSS + JavaScript | HTML + CSS + JavaScript/TypeScript + Framework  |
 | :-------------: |:------------------:| :-----:|
