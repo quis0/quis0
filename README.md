@@ -10,4 +10,4 @@
 ## Contacts
 
 * e-mail: zotkevich@bk.ru
-* telegram: @grigoryzotkevich
+* telegram: [@grigoryzotkevich](https://t.me/grigoryzotkevich)
