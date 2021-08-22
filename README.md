@@ -3,12 +3,6 @@
 Sorted by date (descending)
 
 <details>
-  <summary>Frontend framework + Backend framework</summary>
-  
-  * [Oliva tree (Simple API connected to database)](https://github.com/quis0/oliva-tree)
-</details>
-
-<details>
   <summary>Frontend framework</summary>
   
   * [Filters & Table(configured filtering and sorting)](https://github.com/quis0/filters-and-table)
