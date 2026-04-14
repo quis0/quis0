@@ -5,7 +5,7 @@ Frontend developer with experience building SPAs, interactive services, and resp
 ## Tech Stack
 
 **Languages & Markup:** JavaScript, HTML, CSS  
-**Frameworks & Tools:** React, adaptive/responsive design, REST APIs
+**Frameworks & Tools:** Angular, adaptive/responsive design, REST APIs
 
 ## Projects
 
