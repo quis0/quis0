@@ -1,4 +1,4 @@
-# Hi, I'm Grigory Zotkevich
+# Hi, I'm Grigorii Zotkevich
 
 Frontend developer with experience building SPAs, interactive services, and responsive layouts.
 
